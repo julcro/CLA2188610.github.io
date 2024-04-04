@@ -1,1 +1,27 @@
+/* Reset styles */
 
+{ margin: 0; padding: 0; box-sizing: border-box; }
+
+/* Body styles */ body { font-family: 'Roboto', sans-serif; background-color: #f3f3f3; color: #333; }
+
+/* Heading styles */ h1, h2, h3 { font-weight: 700; color: #333; }
+
+/* Text styles */ p { line-height: 1.5; }
+
+/* Link styles */ a { color: #007bff; text-decoration: none; }
+
+a:hover { color: #0056b3; }
+
+/* Button styles */ button { padding: 10px 15px; border: none; border-radius: 5px; background-color: #007bff; color: #fff; cursor: pointer; }
+
+button:hover { background-color: #0056b3; }
+
+/* Input styles */ input, textarea { padding: 10px; border: 1px solid #ccc; border-radius: 5px; }
+
+/* Container styles */ .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+
+/* Grid styles */ .row { display: flex; flex-wrap: wrap; }
+
+.col { flex: 1; margin: 10px; }
+
+@media screen and (max-width: 768px) { .row { flex-direction: column; } }
