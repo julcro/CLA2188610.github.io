@@ -28,3 +28,18 @@ input[type=text], select, textarea {
     background-color: #f2f2f2;
     padding: 20px;
   } 
+nav{
+    background-color: #E5e1e1;
+    padding: 1em;
+}
+nav ul{
+    padding-left: 0;
+    list-style-type: none;
+    text-align: center;
+}
+nav li{
+    display: inline;
+    padding: 0 10pt; /*0 padding top and bottom 10 pt left and right*/
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+}
