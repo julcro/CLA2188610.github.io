@@ -47,6 +47,7 @@ nav ul{
     text-align: center;
 }
 nav li{
+    color: #0000D1;
     display: inline;
     padding: 0 10pt; 
     text-transform: uppercase;
