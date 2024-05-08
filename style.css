@@ -67,5 +67,6 @@ nav li{
     letter-spacing: 0.1rem;
 }
 #badge{
+    display:grid;
     width: 100%;
     {
