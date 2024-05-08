@@ -62,7 +62,7 @@ nav li{
     text-transform: uppercase;
     letter-spacing: 0.1rem;
 }
-#badge{
+#badge-gallery{
     display:grid;
     grid-template-columns:repeat(2,1fr);
     width: 100%;
