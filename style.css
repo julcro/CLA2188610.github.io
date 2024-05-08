@@ -45,6 +45,8 @@ nav{
     background-color: #E5e1e1;
     display: flex;
     padding: 1em;
+    text-align: center
+    width: 100%;
 }
 nav ul{
     padding-left: 0;
