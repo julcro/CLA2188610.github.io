@@ -36,6 +36,9 @@ input[type=text], select, textarea {
   input[type=submit]:hover {
     background-color: #45a049;
   }
+#badge{
+    
+}
   
   .container {
     text-align: center;
